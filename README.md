@@ -141,4 +141,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir um issue ou envi
 
 ## 📜 Licença
 
-Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para detalhes.
+Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE.md) para detalhes.
